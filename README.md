@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="web/src/assets/images/logo.svg" width="220px" />
+    <img alt="Proffy" title="Proffy" src="web/src/assets/images/logo.svg" width="220px" color="black" />
 </h1>
 
 <p align="center">
@@ -100,3 +100,14 @@ $ npm install ou #yarn
 # Inicie a aplicação mobile
 $ npm start ou #yarn start
 ```
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+## :man_astronaut: Autor
+
+#### Pedro Miguel
+
+- Git Hub: <a href="https://github.com/pedromiiguel" target='_blanck' >@pedromiiguel</a>
+- Linkedin: <a href="https://www.linkedin.com/in/pedro-miiguel" target='_blanck' >@pedromiiguel</a>

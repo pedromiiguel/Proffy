@@ -20,10 +20,8 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedromiiguel/Proffy">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/pedromiiguel/Proffy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/pedromiiguel/Proffy?style=social">
-  </a>
+  <img alt="License" src="https://img.shields.io/github/license/pedromiiguel/Proffy">
+   
 </p>
 
 <br/>
